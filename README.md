@@ -27,5 +27,5 @@ select with result:
 ![image](https://github.com/user-attachments/assets/0bd20690-ce96-4dc7-af75-639f4802c03b)
 
 
-5 - Os 2 estarão a mesma distância de Ribeirão Preto 
+5 - Os 2 estarão a mesma distância de Ribeirão Preto.
 Explicação de como cheguei na resposta: No momento em que eles se cruzam, independente da velocidade, eles estarão à mesma distância da cidade, as velocidades são irrelevantes para a questão.
