@@ -14,12 +14,16 @@ f - 200
 
 4- Database Challenge
 
+DB:
+
 ![image](https://github.com/user-attachments/assets/a8b8141f-1b78-4f55-af6b-a06b2c54a8b5)
 
 Insert: 
+
 ![image](https://github.com/user-attachments/assets/87944ef3-2ff0-486f-a673-dab4644a0253)
 
 select with result: 
+
 ![image](https://github.com/user-attachments/assets/0bd20690-ce96-4dc7-af75-639f4802c03b)
 
 
