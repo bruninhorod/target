@@ -28,4 +28,5 @@ select with result:
 
 
 5 - Os 2 estarão a mesma distância de Ribeirão Preto.
-Explicação de como cheguei na resposta: No momento em que eles se cruzam, independente da velocidade, eles estarão à mesma distância da cidade, as velocidades são irrelevantes para a questão.
+
+Explicação de como cheguei na resposta: no momento em que eles se cruzam, independente da velocidade, eles estarão à mesma distância da cidade, as velocidades são irrelevantes para a questão.
